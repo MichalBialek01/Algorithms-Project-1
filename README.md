@@ -23,3 +23,5 @@ Projekt obejmuje implementację i analizę wybranych algorytmów sortowania oraz
 ### Cel Projektu
 
 Projekt ma na celu zrozumienie i analizę efektywności algorytmów sortowania oraz zdolności do pracy z rzeczywistymi zbiorami danych.
+
+[Sprawozdanie z projektu](https://github.com/MichalBialek01/Algorithms-Project-1/blob/master/P1_PAA_Sprawozdanie_Michal_Bialek_264285.pdf)
