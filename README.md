@@ -1,27 +1,20 @@
-## Projekt: Projektowanie i Analiza Algorytmów
+### Project: Design and Analysis of Algorithms
+###The project involves the implementation and analysis of selected sorting algorithms and testing their efficiency on IMDb datasets. The chosen algorithms are:
 
-### Opis Projektu
-Projekt obejmuje implementację i analizę wybranych algorytmów sortowania oraz testowanie ich efektywności na zbiorze danych z IMDb. Wybrane algorytmy to:
+- **Merge Sort
+- **Quicksort
+- **Introspective Sort
+- **Bucket Sort
+### Tasks:
 
-- **Sortowanie przez scalanie (Merge Sort)**
-- **Quicksort**
-- **Introspektywne (Introspective Sort)**
-- **Kubełkowe (Bucket Sort)**
+Algorithm Implementation: These algorithms should be implemented independently according to the materials discussed in the lectures.
+Data Filtering: Remove empty entries from the input data, prepare datasets of various sizes (from 10,000 to the maximum amount of data).
+Efficiency Analysis: Detailed performance analysis of the implemented algorithms on the prepared datasets.
+Results Reporting: Prepare a report containing a description of the applied algorithms, experiment results (tables, graphs), and conclusions.
 
-### Zadania
-
-1. **Implementacja Algorytmów:** Algorytmy te należy samodzielnie zaimplementować zgodnie z materiałami omawianymi na wykładach.
-2. **Przefiltrowanie Danych:** Usunięcie pustych wpisów z danych wejściowych, przygotowanie zbiorów danych o różnych wielkościach (od 10 000 do maksymalnej ilości danych).
-3. **Analiza Efektywności:** Dokładna analiza wydajności zaimplementowanych algorytmów na przygotowanych zbiorach danych.
-4. **Raportowanie Wyników:** Przygotowanie sprawozdania zawierającego opis zastosowanych algorytmów, wyniki eksperymentów (tabele, wykresy) oraz wnioski.
-
-### Wymagania Dodatkowe
-
-- **Weryfikacja Poprawności:** Sprawdzenie poprawności działania algorytmów, szczególnie dla dużych zbiorów danych.
-- **Dokumentacja:** Sprawozdanie powinno zawierać bibliografię z wykorzystanych źródeł.
-
-### Cel Projektu
-
-Projekt ma na celu zrozumienie i analizę efektywności algorytmów sortowania oraz zdolności do pracy z rzeczywistymi zbiorami danych.
-
-[Sprawozdanie z projektu](https://github.com/MichalBialek01/Algorithms-Project-1/blob/master/P1_PAA_Sprawozdanie_Michal_Bialek_264285.pdf)
+Additional Requirements:
+- **Correctness Verification: Check the correctness of algorithm operation, especially for large datasets.
+- **Documentation: The report should include a bibliography of the used sources.
+Project Objective
+The project aims to understand and analyze the efficiency of sorting algorithms and their ability to work with real-world datasets.
+[Report](https://github.com/MichalBialek01/Algorithms-Project-1/blob/master/P1_PAA_Sprawozdanie_Michal_Bialek_264285.pdf)
